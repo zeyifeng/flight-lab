@@ -15,7 +15,6 @@ Student: Zeyi Feng (241ADB024)
 | `validator.py` | Airport list loading, row validation, record building |
 | `csv_loader.py` | Reads CSV files and performs the duplicate check |
 | `query.py` | Query validation, filtering and sorting |
-| `AI_USAGE.md` | AI use disclosure |
 | `data/` | Sample CSV files, airport list and queries |
 | `tests/` | Public test script and expected outputs |
 
